@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cole Heideman</h1>
 <h3 align="center">An aspiring web developer based in NY, USA.</h3>
 
-- 🌱 I’m currently learning **via the Odin Project Full-Stack Javascript path.**
+- 🌱 I’m currently learning **via the Odin Project Full-Stack Javascript path and Full Stack Open full stack course.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
